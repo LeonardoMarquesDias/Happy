@@ -14,13 +14,13 @@ function Landing() {
         <img src={logoImg} alt="Happy"/>
 
         <main>
-          <h1>Leve felicidade para o mundo</h1>
-          <p>Visite orfanatos e mude o dia de muitas crianças...</p>
+          <h1>Bring happiness to the world</h1>
+          <p>Visit orphanages and change the day for many children...</p>
         </main>
 
         <div className="location">
-          <strong>São Paulo</strong>
-          <span>Votorantim</span>
+          <strong>Liverpool</strong>
+          <span>Merseyside</span>
         </div>
 
         <Link to="/app" className="enter-app">
